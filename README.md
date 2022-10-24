@@ -7,4 +7,4 @@
 + [12 задание демо ЕГЭ2023(12.py)](https://github.com/vvlera/ege2023/blob/main/12.py)
 
 
->>> [демо ЕГЭ2023](https://github.com/vvlera/ege/tree/main/2023demo)
+> [демо ЕГЭ2023](https://github.com/vvlera/ege/tree/main/2023demo)
