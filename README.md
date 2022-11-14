@@ -8,5 +8,6 @@
 + [14 задание демо ЕГЭ2023(14 задание.py)](https://github.com/vvlera/ege2023/blob/main/14%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.py)
 + [15 задание демо ЕГЭ2023(15 задание.py)](https://github.com/vvlera/ege2023/blob/main/15%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.py)
 + [16 задание демо ЕГЭ2023(16 задание.py)](https://github.com/vvlera/ege2023/blob/main/16%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.py)
++ [2 задание в excel ЕГЭ2023(2 задание в excel.xlsx)](https://github.com/vvlera/ege2023/blob/main/2%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%20excel.xlsx)
 
 > [демо ЕГЭ2023](https://github.com/vvlera/ege/tree/main/2023demo)
