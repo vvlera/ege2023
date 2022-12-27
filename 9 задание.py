@@ -1,6 +1,5 @@
-with open('C:/Users/student/Documents/142Б/9.txt') as f:
+with open('c:\Users\Валерия\Documents\GitHub\inf\9.txt') as f:
     s=f.readlines()
-    #print(s)
     for i in range (len(s)):
         s[i]=s[i].replace(';',' ')
     #print(s)
@@ -13,7 +12,6 @@ with open('C:/Users/student/Documents/142Б/9.txt') as f:
         res6=sp[x:y]
         print(res6)
         #input()
-        
         for q in res6:
             if res6.count(q)==2:
                 b = q                
@@ -29,7 +27,7 @@ with open('C:/Users/student/Documents/142Б/9.txt') as f:
 
                 else:
                     del res6  
-            elif res6.count(q)>=2:
+            else:
                 del res6
             print(otv)
                 
