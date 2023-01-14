@@ -2,7 +2,7 @@
 nums=list(product('345678',repeat=3))
 print(nums)'''
 
-'''from itertools import product
+from itertools import product
 nums=product('01234567',repeat=5)
 k=0
 n='16 36 56 76 61 63 65 67'
@@ -20,7 +20,7 @@ for n in nums:
             k+=1
 print(k)
 
-'''
+
 for i in range(1,100):
     chislo=''
     num=(bin(i)[2:])
