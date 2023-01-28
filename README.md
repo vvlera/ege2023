@@ -13,5 +13,5 @@
 + [9 задание ЕГЭ2023](https://github.com/vvlera/ege2023/blob/main/9%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.py)
 + [8 задание с дистанта(8дист.py)](https://github.com/vvlera/ege2023/blob/main/8%D0%B4%D0%B8%D1%81%D1%82.py)
 + [6 задание (6з.py)](https://github.com/vvlera/ege2023/blob/main/6%D0%B7.py)
-+ [19-21 задания досрочка 2022]()
++ [19-21 задания досрочка 2022](https://github.com/vvlera/ege2023/blob/main/19-21%20%D0%B4%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BA%D0%B0%202022.xlsx)
 > [демо ЕГЭ2023](https://github.com/vvlera/ege/tree/main/2023demo)
