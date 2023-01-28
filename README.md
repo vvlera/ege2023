@@ -11,5 +11,5 @@
 + [2 задание в excel ЕГЭ2023(2 задание в excel.xlsx)](https://github.com/vvlera/ege2023/blob/main/2%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%20excel.xlsx)
 + [5 задание в excel ЕГЭ2023 (не доделано)](https://github.com/vvlera/ege2023/blob/main/5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.xlsx)
 + [9 задание ЕГЭ2023](https://github.com/vvlera/ege2023/blob/main/9%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.py)
-
++ [8 задание с дистанта]()
 > [демо ЕГЭ2023](https://github.com/vvlera/ege/tree/main/2023demo)
